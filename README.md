@@ -1,6 +1,6 @@
 # Emergency-Room-Patient-Analysis-Apr-2023-Oct-2024-
-Period: April 2023 – October 2024
-Dataset Size: 9,216 unique patients
+Period: April 2023 – October 2024,
+Dataset Size: 9,216 unique patients,
 Tools: Power BI | Excel/SQL (preprocessing) | DAX (calculated measures)
 ## Project Overview
 This project analyzes emergency room patient data collected over a 19-month period. The objective was to uncover patterns in patient flow, demographics, and satisfaction to support data-driven decision making in healthcare operations.
