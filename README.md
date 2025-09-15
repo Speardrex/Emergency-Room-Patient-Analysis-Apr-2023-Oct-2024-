@@ -1,12 +1,22 @@
 # Emergency-Room-Patient-Analysis-Apr-2023-Oct-2024-
+Period: April 2023 – October 2024
+Dataset Size: 9,216 unique patients
+Tools: Power BI | Excel/SQL (preprocessing) | DAX (calculated measures)
 ## Project Overview
-This project analyzes 9,216 emergency room patients over 19 months using Power BI. The goal was to uncover patterns in patient flow, satisfaction, demographics, and admissions to help optimize healthcare resource allocation.
+This project analyzes emergency room patient data collected over a 19-month period. The objective was to uncover patterns in patient flow, demographics, and satisfaction to support data-driven decision making in healthcare operations.
 
-Tools Used: Power BI, Excel/SQL (data preprocessing), DAX (calculated measures)
+Key focus areas included:
 
-Skills Demonstrated: Data cleaning, data visualization, descriptive analysis, storytelling with data
+- Identifying patient wait time inefficiencies
+- Detecting peak periods to optimize staffing
+- Understanding referral patterns across departments
+- Exploring demographic and admission trends
 
-**Key Findings**
+### Dashboard Overview
+![](https://github.com/Speardrex/Emergency-Room-Patient-Analysis-Apr-2023-Oct-2024-/blob/main/Report/Screenshot%202025-09-15%20194656.png)
+
+
+### Key Findings
 ⏳ Patient Wait Time & Satisfaction
 - Avg wait time: 35.3 minutes → signals delays in patient flow.
 - Satisfaction score: 4.99/10 → shows moderate satisfaction; clear room for improvement.
@@ -42,10 +52,11 @@ Most referred departments:
 
 4,612 admitted, 4,604 treated & released → workload split is almost 50/50.
 
-**Recommendations**
+### Recommendations
 
 Based on insights, the hospital can improve operations by:
  - Reducing wait times through triage automation & digital check-ins.
  - Staffing optimization → increase staff on Mondays, Saturdays, and peak hours.
  - Expanding resources for General Practice & Orthopedics to handle high referrals.
  - Patient experience improvements → better communication & queue management.
+
